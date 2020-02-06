@@ -60,7 +60,7 @@ main {
 	}
 	.step-box {
 		float: none;
-		width: 90%;
+		width: 100%;
 	}
 	.step-box:nth-child(odd) {
 		margin-bottom: 20px;
